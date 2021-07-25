@@ -1,6 +1,13 @@
 ![iiclient1(1)](https://user-images.githubusercontent.com/75437825/126908387-d575d190-20d1-4add-8581-bd8cf95a1f1d.png)
 # iiClient
 
+### NOTE: If you have already installed **FoliClient**, you will need to **delete the following files in your .minecraft config;**
+- Fancymenu folder
+- Windowicons folder
+- bg.jpg
+- craftpresence.properties
+- customwindowtitle-client.toml
+
 ## Overview
 
 iiClient is a modpack configured to be useful to the average minecraft player. It includes many mods which provide information and efficiency, as well as a host of backend optimization mods. This pack is in honor of iiEthan (a TG mod), so all mods by default are legal on TG.
