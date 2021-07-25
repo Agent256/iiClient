@@ -1,12 +1,25 @@
 ![iiclient1(1)](https://user-images.githubusercontent.com/75437825/126908387-d575d190-20d1-4add-8581-bd8cf95a1f1d.png)
 # iiClient
 
-### NOTE: If you have already installed **FoliClient**, you will need to **delete the following files in your .minecraft config;**
+### NOTE: If you have already installed **FoliClient**, you will need to **delete the following files in your .minecraft directory**
+- config folder
+- mods folder
+
+### If you don't want to delete the folders entirely, you will need to delete these from your config;
 - Fancymenu folder
 - Windowicons folder
 - bg.jpg
 - craftpresence.properties
 - customwindowtitle-client.toml
+
+### and these from your mods;
+
+- MiniHUD (or delete FPSDisplay from iiClient)
+- Inventory HUD+ 
+- OK Zoomer
+- Smooth Boot
+
+##It is also highly recommended to make a new directory or use MultiMC
 
 ## Overview
 
