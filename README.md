@@ -19,7 +19,7 @@
 - OK Zoomer
 - Smooth Boot
 
-##It is also highly recommended to make a new directory or use MultiMC
+## It is also highly recommended to make a new directory or use MultiMC
 
 ## Overview
 
