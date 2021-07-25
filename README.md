@@ -1,6 +1,6 @@
 ## iiClient
 
-iiClient is a customized, preconfigured modpack intended to provide players with useful tools for technical Minecraft. In addition, mods are configured by default to be legal on the TeenagersGaming Minecraft Server. Here is an explanation of some of the various mods included:
+iiClient is a modpack configured to be useful to the average minecraft player. It includes many mods which provide information and efficiency, as well as a host of backend optimization mods. This pack is in honor of iiEthan (a TG mod), so all mods by default are legal on TG.
 
 ## Credits
 
@@ -10,26 +10,29 @@ Thanks to [VanillaTweaks](https://vanillatweaks.net/) for providing resources fo
 
 ## Mods
 
-- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-- [Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
-- [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
-- [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
-- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
-- [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
-- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
-- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
-- [ReplayMod](https://www.replaymod.com/)
-- [FFmpeg](https://ffmpeg.org/)
-- [MyBrightness](https://www.curseforge.com/minecraft/mc-mods/mybrightness)
-- [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
-- [Optifine](https://www.optifine.net/home)
-- [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
-- [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric)
-- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-- [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest)
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
-- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
+(In alphabetical order)
+
+- [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness/) 
+- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) 
+- [CustomCrosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/) 
+- [CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) 
+- [Dashloader](https://modrinth.com/mod/dashloader) 
+- [DurabilityViewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer) 
+- [DynamicFPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) 
+- [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Fabrishot](https://modrinth.com/mod/fabrishot) 
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric) 
+- [FPSDisplay](https://www.curseforge.com/minecraft/mc-mods/fpsdisplay/) 
+- [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) 
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric/) 
+- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) 
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) 
+- [LogicalZoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom) 
+- [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib/) 
+- [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) 
+- [Sodium](https://modrinth.com/mod/sodium/) 
+- [SodiumExtra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) 
+- [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) 
+- [EasierCrafting](https://modrinth.com/mod/easiercrafting) 
+
+## Controls
