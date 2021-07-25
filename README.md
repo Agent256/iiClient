@@ -12,13 +12,6 @@
 - craftpresence.properties
 - customwindowtitle-client.toml
 
-### and these from your mods;
-
-- MiniHUD (or delete FPSDisplay from iiClient)
-- Inventory HUD+ 
-- OK Zoomer
-- Smooth Boot
-
 ## It is also highly recommended to make a new directory or use MultiMC
 
 ## Overview
