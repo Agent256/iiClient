@@ -1,4 +1,7 @@
-## iiClient
+![iiclient1(1)](https://user-images.githubusercontent.com/75437825/126908387-d575d190-20d1-4add-8581-bd8cf95a1f1d.png)
+# iiClient
+
+## Overview
 
 iiClient is a modpack configured to be useful to the average minecraft player. It includes many mods which provide information and efficiency, as well as a host of backend optimization mods. This pack is in honor of iiEthan (a TG mod), so all mods by default are legal on TG.
 
@@ -35,4 +38,7 @@ Thanks to [VanillaTweaks](https://vanillatweaks.net/) for providing resources fo
 - [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) 
 - [EasierCrafting](https://modrinth.com/mod/easiercrafting) 
 
-## Controls
+### Made by Agent256#2000
+
+### Installer made by ablazingeboy#7375
+
