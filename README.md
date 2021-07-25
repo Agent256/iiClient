@@ -12,6 +12,8 @@
 
 iiClient is a modpack configured to be useful to the average minecraft player. It includes many mods which provide information and efficiency, as well as a host of backend optimization mods. This pack is in honor of iiEthan (a TG mod), so all mods by default are legal on TG.
 
+**Fabric is required for iiClient**
+
 ## Credits
 
 Thanks to dti131 and IeatPlastic420 for suggesting mods.
