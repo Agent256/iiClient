@@ -1,4 +1,5 @@
-### note that dashloader is screwed, please remove it 
+### note that dashloader is screwed, please remove it. it's not in the mods folder anymore but the new .exe isn't compiled yet
+
 ![iiclient1(1)](https://user-images.githubusercontent.com/75437825/126908387-d575d190-20d1-4add-8581-bd8cf95a1f1d.png)
 # iiClient
 
